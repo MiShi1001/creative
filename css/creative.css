@@ -10,6 +10,9 @@ body {
 }
 body {
   font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+  　background-image:url( ' /img/BG.jpg ' );
+  　background-repeat:no-repeat;
+  　background-color: #FFFFFF;
 }
 hr {
   border-color: #767d85;
